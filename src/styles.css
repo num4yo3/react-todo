@@ -1,0 +1,44 @@
+.todo_task {
+  background-color: rgb(151, 255, 173);
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.completed_task {
+  background-color: rgb(255, 224, 189);
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.h2title {
+  font-size: 24px;
+  text-align: center;
+  color: rgb(80, 80, 80);
+}
+
+.todo_list {
+  display: flex;
+  margin: 5px 20px;
+  padding: 0px;
+  align-items: center;
+  font-weight: bold;
+}
+
+.btn01 {
+  width: 60px;
+  height: 36px;
+  background-color: rgb(209, 209, 209);
+  border-radius: 18px;
+  border: none;
+  margin: 10px;
+}
+
+.btn02 {
+  width: 60px;
+  height: 36px;
+  background-color: rgb(255, 194, 194);
+  border-radius: 18px;
+  border: none;
+  margin: 10px;
+}
