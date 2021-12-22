@@ -1,13 +1,13 @@
 .todo_task {
   background-color: rgb(151, 255, 173);
   margin: 10px;
-  padding: 20px;
+  padding: 5px 20px;
   border-radius: 10px;
 }
 .completed_task {
   background-color: rgb(255, 224, 189);
   margin: 10px;
-  padding: 20px;
+  padding: 5px 20px;
   border-radius: 10px;
 }
 
@@ -19,7 +19,7 @@
 
 .todo_list {
   display: flex;
-  margin: 5px 20px;
+  margin: 0px 20px;
   padding: 0px;
   align-items: center;
   font-weight: bold;
@@ -31,7 +31,7 @@
   background-color: rgb(209, 209, 209);
   border-radius: 18px;
   border: none;
-  margin: 10px;
+  margin: 5px;
 }
 
 .btn02 {
@@ -40,5 +40,5 @@
   background-color: rgb(255, 194, 194);
   border-radius: 18px;
   border: none;
-  margin: 10px;
+  margin: 5px;
 }
